@@ -23,7 +23,7 @@ Then, save your pdf file in the '/Files/' folder located in the repository and t
 ```
 python setup_files.py "YourFileName" 
 ```
-You're now ready to run your chatbot (note you can modify the title of your chatbot in the streamlit_api.py file:
+You're now ready to run your chatbot:
 ```
 streamlit run streamlit_api.py
 ```
