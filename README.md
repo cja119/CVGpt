@@ -43,7 +43,7 @@ Once finished, click create. Add a name for your API. Then scroll down and under
 ```
 streamlit run streamlit_api.py --server.port $PORT
 ```
-The payed service for Render is optional, this can run effectively off their free service. Scroll to the bottom and under environment variables, select 'add from .env' and paste the contents of the .env file on you local repository. If the quick start steps have been followed successfully, there should be three variables:
+The payed service for Render is optional, however this respository can run effectively off their free service (your website will go to sleep after a period of inactivity, it will wakeup when it is accessed, but this takes a few seconds). Scroll to the bottom and under environment variables, select 'add from .env' and paste the contents of the .env file on you local repository. If the quick start steps have been followed successfully, there should be three variables:
 ```
 API_KEY="Your_API_Key"
 API_NAME="Your Api Name"
