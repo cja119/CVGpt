@@ -12,7 +12,9 @@ api_name = os.environ.get('API_NAME')
 st.title(api_name)
 
 # Input text box
-user_input = st.text_input("Ask a question:")
+user_input = st.text_input("Ask a question:*")
+st.caption("*Some answers may be inaccurate due to the probabilistic/uncertain nature of large language model responses. If you have any questions, please feel free to reach out to me directly.")
+
 
 
 headers = {
