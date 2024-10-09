@@ -2,6 +2,8 @@
 
 This GitHub repository allows you to build a custom Large Language Model based off your CV (or any other relevant documents). Give prospective employers an online-hosted, custom AI chatbot such that they make queries regarding your work and experience. This tool is especially powerful for academic researchers, who can upload their research to the model. 
 
+![image](https://github.com/user-attachments/assets/775342f1-e655-4b96-9486-c0df4759e7d5)
+
 # Quick-Start (Local Machine)
 The first stage is to clone this repository on your local machine using the following bash command:
 ```
