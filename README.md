@@ -1,4 +1,4 @@
-# CV-GPT an Open-Source AI ChatBot for Your CV 
+# CV-GPT an Open-Source AI ChatBot for Your CV [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This GitHub repository allows you to build an AI chatbot based off your CV (or any other relevant documents) that can then be hosted online for others to access and query about your work.
 
