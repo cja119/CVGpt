@@ -1,8 +1,13 @@
 # CV-GPT an Open-Source AI ChatBot for Your CV [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This GitHub repository allows you to build a custom Large Language Model based off your CV (or any other relevant documents). Give prospective employers an online-hosted, custom AI chatbot such that they make queries regarding your work and experience. This tool is especially powerful for academic researchers, who can upload their research to the model.
 
-This GitHub repository allows you to build a custom Large Language Model based off your CV (or any other relevant documents). Give prospective employers an online-hosted, custom AI chatbot such that they make queries regarding your work and experience. This tool is especially powerful for academic researchers, who can upload their research to the model. 
+# User Interface
 
-![image](https://github.com/user-attachments/assets/775342f1-e655-4b96-9486-c0df4759e7d5)
+CV-GPT sports a clean, simple user interface with mobile and desktop support:
+
+![image](https://github.com/user-attachments/assets/3feca6d3-e006-4a40-a022-4e353c04026f)
+
+
 
 # Quick-Start (Local Machine)
 The first stage is to clone this repository on your local machine using the following bash command:
