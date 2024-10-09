@@ -32,7 +32,7 @@ For webhosting, follow the steps above (this generates some environment variable
 ```
 https://github.com/cja119/CVGpt.git
 ```
-Once finished, click create. Scroll down and, under start command, paste the following command:
+Once finished, click create. Add a name for your API. Then, scroll down and, under start command, paste the following command:
 ```
 streamlit run streamlit_api.py --server.port $PORT
 ```
