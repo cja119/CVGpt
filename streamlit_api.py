@@ -3,15 +3,16 @@ import requests
 import os
 from dotenv import load_dotenv
 
-# Title of the app
-st.title("Title of Your Chatbot")
-
-# Input text box
-user_input = st.text_input("Ask a question:")
-
 load_dotenv()
 sourcID = os.environ.get('SOURCE_ID')
 api_key = os.environ.get('API_KEY')
+api_name = os.environ.get('API_NAME')
+
+# Title of the app
+st.title(api_name)
+
+# Input text box
+user_input = st.text_input("Ask a question:")
 
 
 headers = {
